@@ -1,6 +1,3 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Protogenic&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
-
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
     <img width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=Protogenic&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
