@@ -3,7 +3,7 @@
     <img width="94%" src="https://github-widgetbox.vercel.app/api/profile?username=Protogenic&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
-          <img width="46%" src="https://github-widgetbox.vercel.app/api/skills?languages=go,java,python,postgresql,mysql&includeNames=true" alt="GitHub WidgetBox" />
+          <img width="46%" src="https://github-widgetbox.vercel.app/api/skills?languages=go,java,python,cpp,postgresql,mysql&includeNames=true" alt="GitHub WidgetBox" />
     <img width="46%" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker&includeNames=true" alt="GitHub WidgetBox" />
   </a>
 
