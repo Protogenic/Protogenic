@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=Protogenic&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Protogenic&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
           <img width="46%" src="https://github-widgetbox.vercel.app/api/skills?languages=go,java,python,postgresql,mysql&includeNames=true" alt="GitHub WidgetBox" />
